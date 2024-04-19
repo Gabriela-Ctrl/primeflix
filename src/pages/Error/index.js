@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRotateBackward } from '@fortawesome/free-solid-svg-icons'; 
 import styles from './styles.module.css'; 
 
-function Error() {//DEfine o componente funcional Erro
+function Error() {//Define o componente funcional Erro
     return(
         <div className={styles.not_found}>
             <h1>404</h1> {/* Redefine a titulo*/}
